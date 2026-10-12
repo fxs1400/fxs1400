@@ -1,4 +1,1 @@
-# Welcome to my account
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fxs1400.visitor-badge&right_color=%23607cbf&logo=github)
-***
-
+<center><h3><i>fxs1400's github</i></h3><p>he/him , dev & artist , 🇲🇦</p><p>visior :<img src="https://visitor-badge.laobi.icu/badge?page_id=Fxs1400.visitor-badge&right_color=%23ff0000" alt="visitor badge"/></p></center>
